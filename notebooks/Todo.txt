@@ -1,0 +1,11 @@
+Links
+
+https://quantum.cloud.ibm.com/docs/en/guides/simulate-with-qiskit-aer
+
+https://qiskit.github.io/qiskit-aer/tutorials/1_aersimulator.html#Saving-the-final-statevector
+
+
+https://quantum.cloud.ibm.com/docs/en/guides/plot-quantum-states
+
+
+And the textbook https://github.com/sebastianardelean/textbook/blob/main/notebooks/ch-states/representing-qubit-states.ipynb
